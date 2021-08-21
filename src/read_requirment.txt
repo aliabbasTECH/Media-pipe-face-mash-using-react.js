@@ -1,0 +1,12 @@
+first create react app 
+
+
+        
+
+go to media pipe library open Face mash page
+
+or go to that link :    https://google.github.io/mediapipe/solutions/face_mesh.html
+
+then install react-webcam module for media pipe using
+
+       npm i react-webcam @mediapipe/face_mesh @mediapipe/camera_utils
